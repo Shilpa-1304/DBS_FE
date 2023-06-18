@@ -1,0 +1,8 @@
+.header{
+    position: relative;
+    background-color: rgb(191, 250, 250);
+}
+.heading{
+    position: sticky;
+    top:0;
+}
